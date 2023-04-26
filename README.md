@@ -29,9 +29,9 @@ Til:
 for i in range(20)
 ```
 
-
+\
 ### [Oppgave_b.py](https://github.com/HermanErKu/tentamen_oppgave4/blob/main/oppgave_b.py)
-Denne koden tegner den n'te figuren i mønsteret. I denne koden er det noen innstillinger du kan endre på.
+Denne koden tegner den n'te figuren i mønsteret. I denne koden er det noen innstillinger du kan endre på. \
 
 ### Nummer på figur
 Hvis du vil finne figuren til den 5. figuren i mønsteret, så endrer du [linje 12](https://github.com/HermanErKu/tentamen_oppgave4/blob/cd576652e32e32c90af51d5822927572363c4640/oppgave_b.py#L12) i koden fra: 
