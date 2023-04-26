@@ -1,4 +1,4 @@
-import turtle, keyboard, time
+import turtle, keyboard
 
 
 turtle.speed(speed=10000)
