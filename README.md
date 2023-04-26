@@ -20,10 +20,10 @@ pip install turtle
 Denne koden er veldig enkel å bruke. Den finner de 10 første tallene i et mønster.
 Hvis du vil finne mere enn kun de 10 første tallene, så endrer du bare loopen i koden.
 
-Hvis du vil finne de første 20 tallene, så endrer du [linje 3](https://github.com/HermanErKu/tentamen_oppgave4/blob/cd576652e32e32c90af51d5822927572363c4640/oppgave_a.py#L3) i koden fra:
-for i in range(10)
-Til:
-for i in range(20)
+Hvis du vil finne de første 20 tallene, så endrer du [linje 3](https://github.com/HermanErKu/tentamen_oppgave4/blob/cd576652e32e32c90af51d5822927572363c4640/oppgave_a.py#L3) i koden fra: \
+for i in range(10) \
+Til: \
+for i in range(20) \
 
 
 ### [Oppgave_b.py](https://github.com/HermanErKu/tentamen_oppgave4/blob/main/oppgave_b.py)
