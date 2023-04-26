@@ -16,7 +16,7 @@ pip install turtle
 
 
 # Hvordan bruke
-### [Oppgave_a.py](https://github.com/HermanErKu/tentamen_oppgave4/blob/main/oppgave_a.py)
+## [Oppgave_a.py](https://github.com/HermanErKu/tentamen_oppgave4/blob/main/oppgave_a.py)
 Denne koden er veldig enkel å bruke. Den finner de 10 første tallene i et mønster.
 Hvis du vil finne mere enn kun de 10 første tallene, så endrer du bare loopen i koden.
 
@@ -30,7 +30,7 @@ for i in range(20)
 ```
 
 
-### [Oppgave_b.py](https://github.com/HermanErKu/tentamen_oppgave4/blob/main/oppgave_b.py)
+## [Oppgave_b.py](https://github.com/HermanErKu/tentamen_oppgave4/blob/main/oppgave_b.py)
 Denne koden tegner den n'te figuren i mønsteret. I denne koden er det noen innstillinger du kan endre på. 
 
 ### Nummer på figur
@@ -69,10 +69,10 @@ squareSize = 20
 
 
 # Hvordan koden funker:
-### [oppgave_a.py](https://github.com/HermanErKu/tentamen_oppgave4/blob/main/oppgave_a.py)
+## [oppgave_a.py](https://github.com/HermanErKu/tentamen_oppgave4/blob/main/oppgave_a.py)
 Dette er en veldig enkel og kort kode. Det eneste jeg gjorde her var å kode i Python den pseudokoden vi fikk utdelt i oppgaven.
 
-### [oppgave_b.py](https://github.com/HermanErKu/tentamen_oppgave4/blob/main/oppgave_b.py)
+## [oppgave_b.py](https://github.com/HermanErKu/tentamen_oppgave4/blob/main/oppgave_b.py)
 Denne koden lager figurer ut ifra koden i [oppgave_a.py](https://github.com/HermanErKu/tentamen_oppgave4/blob/main/oppgave_a.py).
 
 Her er hvordan den gjør det:
