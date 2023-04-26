@@ -82,3 +82,30 @@ Her er hvordan den gjør det:
 4. Trykk på 'q' for å komme ut av popup vinduet.
 
 # Skjermbilder:
+``` python
+n = 1
+height = 10
+squareSize = 35
+```
+![image](https://user-images.githubusercontent.com/78619090/234664450-c96a00e2-633c-4815-967b-cd45f18f985e.png)
+``` python
+n = 2
+height = 10
+squareSize = 35
+```
+![image](https://user-images.githubusercontent.com/78619090/234664538-010b3a97-4ef7-43f8-877f-e05f42e816a6.png)
+``` python
+n = 5
+height = 10
+squareSize = 35
+```
+![image](https://user-images.githubusercontent.com/78619090/234664630-5ed7d4dd-f0f8-48dd-af4e-3ae844c6ab06.png)
+``` python
+n = 9
+height = 10
+squareSize = 20
+```
+![image](https://user-images.githubusercontent.com/78619090/234665283-9f9ed97f-29b2-4788-8685-611a082f0ddc.png)
+
+
+
