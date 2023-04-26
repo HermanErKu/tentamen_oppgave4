@@ -54,7 +54,7 @@ height = -10
 ```
 
 
-Du kan også endre størrelsen på firkantene i figuren. Det kan være lurt å gjøre firkantene mindre hvis du skal lage en stor figur.
+\ Du kan også endre størrelsen på firkantene i figuren. Det kan være lurt å gjøre firkantene mindre hvis du skal lage en stor figur.
 Hvis du vil gjøre firkantene litt mindre så kan du endre [linje 14](https://github.com/HermanErKu/tentamen_oppgave4/blob/cd576652e32e32c90af51d5822927572363c4640/oppgave_b.py#L14) i koden fra: 
 ``` python
 squareSize = 35
